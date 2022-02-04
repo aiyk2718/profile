@@ -1,5 +1,7 @@
-Interests
-#Mathematics #Physics
-#AI #MachineLearning
-#DAO #Blockchain #Web3
-#EthicalHacking
+# Interests
+
+- Mathematics, Physics
+- AI and MachineLearning
+- DAO, Blockchain, Web3
+- CyberSecurity and EthicalHacking
+- Jazz Piano
